@@ -333,3 +333,4 @@ int main(){
 		printf("Enter either 1 or 2 only\n");
 		break;
 	}
+}
